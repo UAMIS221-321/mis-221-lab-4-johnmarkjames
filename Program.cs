@@ -50,7 +50,7 @@ static void trianglePartial()
 }
 static void menu()
 {
-    System.Console.WriteLine("1. ");
-    System.Console.WriteLine("2. ");
+    System.Console.WriteLine("1. New Triangle");
+    System.Console.WriteLine("2. Old Triangle");
     System.Console.WriteLine("3. Exit");
 }
