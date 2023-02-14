@@ -1,0 +1,15 @@
+/Users/johnjames/Desktop/mis221/mis-221-lab-4-johnmarkjames/obj/Debug/net7.0/mis-221-lab-4-johnmarkjames.csproj.AssemblyReference.cache
+/Users/johnjames/Desktop/mis221/mis-221-lab-4-johnmarkjames/obj/Debug/net7.0/mis-221-lab-4-johnmarkjames.GeneratedMSBuildEditorConfig.editorconfig
+/Users/johnjames/Desktop/mis221/mis-221-lab-4-johnmarkjames/obj/Debug/net7.0/mis-221-lab-4-johnmarkjames.AssemblyInfoInputs.cache
+/Users/johnjames/Desktop/mis221/mis-221-lab-4-johnmarkjames/obj/Debug/net7.0/mis-221-lab-4-johnmarkjames.AssemblyInfo.cs
+/Users/johnjames/Desktop/mis221/mis-221-lab-4-johnmarkjames/obj/Debug/net7.0/mis-221-lab-4-johnmarkjames.csproj.CoreCompileInputs.cache
+/Users/johnjames/Desktop/mis221/mis-221-lab-4-johnmarkjames/bin/Debug/net7.0/mis-221-lab-4-johnmarkjames
+/Users/johnjames/Desktop/mis221/mis-221-lab-4-johnmarkjames/bin/Debug/net7.0/mis-221-lab-4-johnmarkjames.deps.json
+/Users/johnjames/Desktop/mis221/mis-221-lab-4-johnmarkjames/bin/Debug/net7.0/mis-221-lab-4-johnmarkjames.runtimeconfig.json
+/Users/johnjames/Desktop/mis221/mis-221-lab-4-johnmarkjames/bin/Debug/net7.0/mis-221-lab-4-johnmarkjames.dll
+/Users/johnjames/Desktop/mis221/mis-221-lab-4-johnmarkjames/bin/Debug/net7.0/mis-221-lab-4-johnmarkjames.pdb
+/Users/johnjames/Desktop/mis221/mis-221-lab-4-johnmarkjames/obj/Debug/net7.0/mis-221-lab-4-johnmarkjames.dll
+/Users/johnjames/Desktop/mis221/mis-221-lab-4-johnmarkjames/obj/Debug/net7.0/refint/mis-221-lab-4-johnmarkjames.dll
+/Users/johnjames/Desktop/mis221/mis-221-lab-4-johnmarkjames/obj/Debug/net7.0/mis-221-lab-4-johnmarkjames.pdb
+/Users/johnjames/Desktop/mis221/mis-221-lab-4-johnmarkjames/obj/Debug/net7.0/mis-221-lab-4-johnmarkjames.genruntimeconfig.cache
+/Users/johnjames/Desktop/mis221/mis-221-lab-4-johnmarkjames/obj/Debug/net7.0/ref/mis-221-lab-4-johnmarkjames.dll
